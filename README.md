@@ -2,7 +2,7 @@
 # Fala Dev!! Tudo beleza ?
 
 - 👩‍💻 -  Eu me chamo [Kauanne Nunes](www.linkedin.com/in/kauannenunes);
-- 💜 - Atualmente sou Tech Recruiter na [Lovel,Tecer, 99Hunters e GR Soluções em RH];
+- 💜 - Atualmente sou Tech Recruiter na [Lovel, Tecer, 99Hunters e GR Soluções em RH];
 - 🦄 - Essas consultorias contratam os melhores talentos techs para empresas referência de mercado;
 - 💸 - Constantemente temos vagas para:
 - - *Frontend*: NextJs + ReactJs + TypeScript;
