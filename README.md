@@ -3,7 +3,7 @@
 
 - 👩‍💻 -  Eu me chamo [Kauanne Nunes](www.linkedin.com/in/kauannenunes);
 - 💜 - Atualmente sou Tech Recruiter na [Lovel];
-- 🦄 - Essas consultorias contratam os melhores talentos techs para empresas referência de mercado;
+- 🦄 - Contratamos os melhores talentos techs para empresas referência no mercado;
 - 💸 - Constantemente temos vagas para:
 - - *Frontend*: NextJs + ReactJs + TypeScript;
 - - *Backend*: NestJs + NodeJs + Python.
