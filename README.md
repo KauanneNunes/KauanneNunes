@@ -2,7 +2,7 @@
 # Fala Dev!! Tudo beleza ?
 
 - 👩‍💻 -  Eu me chamo [Kauanne Nunes](www.linkedin.com/in/kauannenunes);
-- 💜 - Atualmente sou Tech Recruiter na [Lovel];
+- 💜 - Atualmente sou Tech Recruiter Manager na [Lovel];
 - 🦄 - Contratamos os melhores talentos techs para empresas referência no mercado;
 - 💸 - Trabalhamos com vagas Nacionais e Internacionais em todos os níveis de atuação.
 
